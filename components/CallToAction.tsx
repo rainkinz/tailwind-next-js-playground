@@ -15,7 +15,9 @@ export default function CallToAction({ theme = '' }: { theme?: string }) {
           <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
             <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
               <a href="#" className="text-skin-inverted bg-skin-button-accent hover:bg-skin-button-accent-hover flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm sm:px-8"> Get started </a>
-              <a href="#" className="text-skin-base bg-skin-button-muted flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm bg-opacity-60 hover:bg-opacity-70 sm:px-8"> Live demo </a>
+              <a href="#" className="text-skin-base bg-skin-button-muted flex items-center justify-center 
+                px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm bg-opacity-50 
+                hover:bg-opacity-70 sm:px-8"> Live demo </a>
             </div>
           </div>
         </div>
