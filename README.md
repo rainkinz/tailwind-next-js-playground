@@ -1,6 +1,6 @@
 # Tailwind Examples
 
-Just a place for me to try out some tailwind stuff mainly from the [Tailwind Labs YouTube](https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ) Channel
+Just a place for me to try out some [tailwindcss](https://tailwindcss.com/) stuff mainly from the excellent [Tailwind Labs YouTube](https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ) Channel
 
 ## Getting Started
 
